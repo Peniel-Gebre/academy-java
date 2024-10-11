@@ -37,7 +37,7 @@ public class HashMapExample {
 	    	
 	    }
 	    
-	    //reterieve the age of John and print it to the console
+	    //retrieve the age of John and print it to the console
 	    
 	    System.out.println("Age of John is: " + hashMap.get("John"));
 	    

@@ -31,7 +31,7 @@ public class Person {
 		// String name below has no influence in the below output as instance variables
 		// are referred using "this" keyword
 		// ? String name = "unknown";
-		System.out.println("Name: " + this.name + " age " + this.age + " location " + this.location);
+		System.out.println("Name: " + this.name + ", Age: " + this.age + ", Location: " + this.location);
 	}
 
 	public static void main(String args[]) {

@@ -35,7 +35,7 @@ public class Phone {
 		color = c;
 	}
 	
-	//2nd Parameterized constructor - which has 4 parameters passed
+	//2nd Parameterized constructor - which has 3 parameters passed
 		public Phone(int w, int h, int wi) {
 			weight = w;
 			height =  h;

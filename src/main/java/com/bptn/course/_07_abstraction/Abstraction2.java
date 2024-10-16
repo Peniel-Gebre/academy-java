@@ -34,7 +34,7 @@ class RectangleClass implements ShapeInterface{
 	
 }
 
-public class Abstracton2 {
+public class Abstraction2 {
 
 	public static void main(String[] args) {
 		
